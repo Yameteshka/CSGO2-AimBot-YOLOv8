@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-completed-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Yameteshka/CSGO2-AimBot-YOLOv8?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Yameteshka/CSGO2-AimBot-YOLOv8?style=for-the-badge&cacheSeconds=10" />
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
   </a>
