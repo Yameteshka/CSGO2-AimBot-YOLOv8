@@ -1,0 +1,10 @@
+names:
+  - body
+  - head
+nc: 2
+
+# NOTE: This config is an example structure and does not include any datasets or Roboflow access.
+# Replace paths with your own dataset location when training.
+train: path/to/your/train/images
+val: path/to/your/val/images
+test: path/to/your/test/images

@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# YOLO weights
+*.pt
+
+# Dataset & outputs
+runs/
+train/
+test/
+valid/
+output_images/
+database/
+new_database/
+.idea/
